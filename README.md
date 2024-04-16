@@ -1,4 +1,4 @@
-### Hi there 👋
+I see every line of code as the start of a new story or the key to solving a problem. My coding journey kicked off with basic algorithms and has evolved into a deep dive into C++, Java's elegance, and JavaScript's dynamic capabilities. Tackling bugs and enhancing systems fuels my passion for tech. Currently, I'm a sophomore at the University of Illinois Chicago, and I'm all about using artificial intelligence to develop solutions for real-world issues. From predicting environmental trends to creating accessible technology for education, my goal is to make a meaningful impact. I'm committed to not just following the future of technology but actively shaping it to be more inclusive and insightful. As a technologist, innovator, and lifelong learner, I'm eager to collaborate with others who are passionate about turning complex challenges into opportunities for growth and innovation. Let's use the open source nature of github to make this happen!
 
 <!--
 **fil-ski/fil-ski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
